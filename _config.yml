@@ -1,7 +1,7 @@
 name: Medialmark
 favicon: null
-layout_spectrum: 0.03501169290393591
-typography_spectrum: 0.20788644650019705
+layout_spectrum: 1
+typography_spectrum: 0.60484
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#dcd9d4'
+    - '#aaa19c'
+    - '#8e8580'
+    - '#504b51'
+    - '#2d292b'
   brandStrength: 0.1895707086659968
   lightness: 0.8228573175147176
   saturation: 0.955768586602062
